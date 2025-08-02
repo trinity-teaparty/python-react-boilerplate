@@ -64,3 +64,4 @@ python3 main.py
 
 ## Related Projects
 * https://github.com/rheech/spring-boot-react-boilerplate
+* https://github.com/AkiaCode/python-react-boilerplate
